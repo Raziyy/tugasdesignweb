@@ -22,6 +22,9 @@ Tujuan utama dari pembuatan website ini adalah untuk memenuhi nilai UTS dalam ma
 - *CSS*: Untuk desain dan tata letak, termasuk fitur responsif.
 - *JavaScript* (opsional): Untuk meningkatkan interaktivitas, menyimpan data sementara yang tertera pada project.html
 
+## 📋 Penjelasan Proyek yang dibuat
+Jadi ini merupakan aplikasi portofolio yang mempunyai 4 halaman, yaitu halaman utama (index.html), halaman tentang edukasi saya (education.html), halaman pengalaman kerja (pengalamankerja.html) dan terakhir ada project yang memakai javascript untuk menyimpan apa yang kita upload di dalam website.
+
 ## 📸 Screenshots
 
 *Tampilan Desktop*

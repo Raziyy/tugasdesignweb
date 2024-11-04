@@ -25,8 +25,25 @@ Tujuan utama dari pembuatan website ini adalah untuk memenuhi nilai UTS dalam ma
 ## 📸 Screenshots
 
 *Tampilan Desktop*
+![image](https://github.com/user-attachments/assets/0734a730-08b7-48cc-9ad3-abe97e88bf7d)
+![image](https://github.com/user-attachments/assets/83d3f60c-b073-4d7f-acdf-e0b3573ef608)
+![image](https://github.com/user-attachments/assets/7c54c3df-00ae-4cb3-9baa-6215cc0f8558)
+![image](https://github.com/user-attachments/assets/89fe7a46-a047-4b5b-959f-95d45057d58b)
 
-<img src="https://github.com/user-attachments/assets/9d1b9f6b-007d-4830-893e-6881c967acc6" alt="Tampilan Desktop" width="50%">
+*Tampilan Tab (Device Ipad Mini)*
+![image](https://github.com/user-attachments/assets/921723f3-4cb2-4039-8afc-d3e355262c15)
+![image](https://github.com/user-attachments/assets/a4024716-2939-44a2-ba1e-3aac50cc8971)
+![image](https://github.com/user-attachments/assets/68363916-ddaa-4192-8519-bc85e26432d3)
+![image](https://github.com/user-attachments/assets/b413d792-2ce8-48f6-839f-c91c83615b77)
 
-<img src="https://github.com/user-attachments/assets/c418ab0c-a3ea-4a5b-806e-0adfda6f6c1a" alt="Tampilan Desktop" width="50%">
+*Tampilan Smartphoe (Device Iphone XR)*
+![image](https://github.com/user-attachments/assets/5daeb9dc-5d2a-462c-8153-2d587f462bdc)
+![image](https://github.com/user-attachments/assets/db1f152c-c583-4051-8b1e-2c30536ff0e1)
+![image](https://github.com/user-attachments/assets/dd73da92-cb39-4a9e-8b21-5559cc1b326b)
+![image](https://github.com/user-attachments/assets/7c8035e7-fc06-4fca-a325-dc650333cfc8)
+
+
+
+
+
 

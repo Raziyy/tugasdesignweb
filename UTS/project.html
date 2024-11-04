@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Input your project here</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Raziy</a>
+        <nav>
+            <a href="index.html" > Home</a>
+            <a href="education.html">Education</a>
+            <a href="pengalaman.html">Experience</a>
+            <a href="project.html" class="active">Projects</a>
+        </nav>
+    </header>
+
+    <main class="app-buku">
+        <center><h1>Aplikasi Proyek Favorit</h1></center>
+        <div class="container">
+            <div class="form-container">
+                <form id="form-tambah-project">
+                    <input type="text" id="judul" placeholder="Judul Proyek" required />
+                    <input type="text" id="deskripsi" placeholder="Deskripsi" required />
+                    <input type="text" id="teknologi" placeholder="Teknologi yang Digunakan" required />
+                    <input type="file" id="sampul" accept="image/*" required />
+                    <button type="submit">Tambah Proyek</button>
+                </form>
+            </div>
+
+            <div class="result-container">
+                <input type="text" id="search" placeholder="Cari Proyek..." onkeyup="cariProject()" />
+
+                <h2>Daftar Proyek</h2>
+                <div id="daftar-proyek"></div>
+
+                <h2>Proyek Favorit</h2>
+                <div id="proyek-favorit"></div>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

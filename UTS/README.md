@@ -30,11 +30,16 @@ Tujuan utama dari pembuatan website ini adalah untuk memenuhi nilai UTS dalam ma
 ![image](https://github.com/user-attachments/assets/7c54c3df-00ae-4cb3-9baa-6215cc0f8558)
 ![image](https://github.com/user-attachments/assets/89fe7a46-a047-4b5b-959f-95d45057d58b)
 
+
+
 *Tampilan Tab (Device Ipad Mini)*
 ![image](https://github.com/user-attachments/assets/921723f3-4cb2-4039-8afc-d3e355262c15)
 ![image](https://github.com/user-attachments/assets/a4024716-2939-44a2-ba1e-3aac50cc8971)
 ![image](https://github.com/user-attachments/assets/68363916-ddaa-4192-8519-bc85e26432d3)
 ![image](https://github.com/user-attachments/assets/b413d792-2ce8-48f6-839f-c91c83615b77)
+
+
+
 
 *Tampilan Smartphoe (Device Iphone XR)*
 ![image](https://github.com/user-attachments/assets/5daeb9dc-5d2a-462c-8153-2d587f462bdc)
